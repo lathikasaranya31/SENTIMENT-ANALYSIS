@@ -42,3 +42,6 @@
 # This task hepls in focusing on importance of data cleaning in NLP, Feature extraction techniques for text and Model training, testing, and evaluation pipelines.
 
 # This task was a practical and insightful exercise in the application of NLP and machine learning for real-world sentiment analysis. It highlighted the power of combining text preprocessing, feature engineering, and classification to derive actionable insights from unstructured data. This project mirrors the kind of work done by data analysts and ML engineers in industry today, especially in marketing, customer service, and social media analytics.
+
+# FINAL OUTPUT OF THE TASK 
+![Image](https://github.com/user-attachments/assets/1fe0b367-acab-4ba1-b950-8aa710e6c336)
